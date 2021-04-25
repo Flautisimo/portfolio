@@ -334,12 +334,12 @@ figure {
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #000;
-            border: 1px solid #000;
+            color: #fff;
+            border: 1px solid #fff;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
-              border: 1px solid #000 !important; }
+              border: 1px solid #fff !important; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
               width: 100%; } }
@@ -729,7 +729,7 @@ body.offcanvas {
       border-color: transparent transparent #4054b2 transparent; }
     .services.color-6 .icon:after {
       border-color: #4054b2 transparent transparent transparent; }
-
+*/
 .progress-wrap h3 {
   font-size: 16px;
   font-family: "Quicksand", Arial, sans-serif;
@@ -918,7 +918,7 @@ body.offcanvas {
     -ms-transform: scale(1.1);
     -o-transform: scale(1.1);
     transform: scale(1.1); }
-
+*/
 .work-menu span {
   margin-left: 10px; }
   .work-menu span:first-child {
